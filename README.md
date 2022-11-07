@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manavmalhotra123
+- 👋 Hi, I’m Manav Malhotra
 - 👀 I’m interested in Data Science and Coding 
 - 🌱 I’m currently learning Deep Learning and DSA in Cpp 
 - 💞️ I’m looking for projects and new topics in filed of Data science

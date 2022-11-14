@@ -6,6 +6,8 @@
 - I'm looking for little help in streamlit 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=manavmalhotra123&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!---
 manavmalhotra123/manavmalhotra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

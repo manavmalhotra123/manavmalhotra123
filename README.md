@@ -14,6 +14,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a></p>
+<a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://imgs.search.brave.com/GGfNfe5rxJ8QWEoxXniSLc0-POLU3qPyTIpuqPdbmXk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cHl0aG9uLm9yZy9z/dGF0aWMvb3Blbmdy/YXBoLWljb24tMjAw/eDIwMC5wbmc" alt="MarkDown"/> </a></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manavmalhotra123&theme=dark&hide_border=true)](https://git.io/streak-stats)

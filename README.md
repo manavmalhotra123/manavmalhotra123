@@ -2,8 +2,9 @@
 - #Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Manav Malhotra
 - 👀 I’m interested in Data Science and Coding 
 - 🌱 I’m currently learning Deep Learning and DSA in Cpp 
-- 💞️ I’m looking for projects in machine learning
-- I'm looking for little help in streamlit 
+-  I’m looking for projects in machine learning
+-  Ask me about machine learning 
+- I'm looking for little help in front end help 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

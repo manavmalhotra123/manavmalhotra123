@@ -16,11 +16,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manavmalhotra123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 📊 GitHub Stats:
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manavmalhotra123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ![](https://github-readme-stats.vercel.app/api?username=manavmalhotra123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manavmalhotra123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalhotra123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

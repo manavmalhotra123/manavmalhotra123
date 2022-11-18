@@ -17,7 +17,10 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manavmalhotra123&theme=dark&hide_border=true)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manavmalhotra123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manavmalhotra123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalhotra123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!---
 manavmalhotra123/manavmalhotra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

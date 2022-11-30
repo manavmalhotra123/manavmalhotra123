@@ -16,8 +16,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manavmalhotra123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 📊 GitHub Stats:

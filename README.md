@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{manavmalhotra123}/count.svg)
 - #Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Manav Malhotra
 - 👀 I’m interested in Data Science and Coding 
-- 🌱 I’m currently learning Deep Learning and DSA in Cpp 
+- 🌱 I’m currently learning DSA and Android Development 
 -  I’m looking for projects in machine learning
 -  Ask me about machine learning 
 - I'm looking for little help in front end help 
@@ -46,6 +46,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%23blue.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 <!---
 manavmalhotra123/manavmalhotra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

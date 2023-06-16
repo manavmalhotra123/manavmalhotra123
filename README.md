@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Coding 
 - 🌱 I’m currently learning DSA and Android Development 
 -  I’m looking for projects in machine learning
--  Ask me about machine learning 
+-  Ask me about machine learning ,cloud, API's
 - I'm looking for little help in front end help 
 
 

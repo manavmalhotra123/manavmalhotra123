@@ -48,6 +48,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-%23blue.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manavmalhotra123)](https://github.com/manavmalhotra123)
 
 <!---
 manavmalhotra123/manavmalhotra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

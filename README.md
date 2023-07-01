@@ -20,7 +20,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
 
 
 ### Tech Stack

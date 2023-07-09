@@ -48,6 +48,11 @@
 ![Flutter](https://img.shields.io/badge/flutter-%23blue.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=k-kavya-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manavmalhotra123)](https://github.com/manavmalhotra123)
 
 <!---

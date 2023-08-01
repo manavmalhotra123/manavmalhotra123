@@ -1,14 +1,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/{manavmalhotra123}/count.svg)
 - #Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Manav Malhotra
-- 👀 I’m interested in Data Science and Coding 
+- 👀 I’m interested in Data Science and DSA 
 - 🌱 I’m currently learning DSA and Android Development 
 -  I’m looking for projects in machine learning
 -  Ask me about machine learning ,cloud, API's
 - I'm looking for little help in front end help 
 
-
-
-
+Fact : I am gym techie
 
 ## IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

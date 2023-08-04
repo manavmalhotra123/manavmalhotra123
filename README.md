@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning DSA and Android Development 
 -  I’m looking for projects in machine learning
 -  Ask me about machine learning ,cloud, API's
-- I'm looking for little help in front end help 
 
-Fact : I am gym techie
+
+Fact : I am gym coder
 
 ## IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

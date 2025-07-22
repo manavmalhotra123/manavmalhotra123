@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Manav Malhotra
 
 [![Website](https://img.shields.io/badge/Portfolio-In%20Progress-blueviolet?style=flat-square&logo=Google-Chrome)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manav%20Malhotra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manavmalhotra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manav%20Malhotra-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/manavmalhotra/](https://www.linkedin.com/in/manav-malhotra-973257228/))
 [![Gmail](https://img.shields.io/badge/Gmail-manav8073@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manav8073@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/manavmalhotra?label=Follow&style=social)](https://github.com/manavmalhotra)
+[![GitHub followers](https://img.shields.io/github/followers/manavmalhotra?label=Follow&style=social)](https://github.com/manavmalhotra123)
 
 ---
 
@@ -25,7 +25,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
 
 ## 📝 Current Interests

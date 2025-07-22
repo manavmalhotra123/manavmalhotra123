@@ -35,6 +35,17 @@
 
 ---
 
+
+
+---
+
+## 📉 Learning Matters...
+
+![Gradient Descent Learning Rate](gradient_descent.gif)
+
+📌 That's how we think world will learn in future.
+
+
 ### 🤝 Let's Collaborate
 If you’re working on **interpretable AI**, **PINNs**, or **biomedical data modeling**, let’s connect!
 

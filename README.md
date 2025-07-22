@@ -41,7 +41,7 @@
 
 ## 📉 Learning Matters...
 
-![Gradient Descent Learning Rate](gradient_descent.gif)
+![Gradient Descent Learning Rate](gradient_descent_lr_comparison.gif)
 
 📌 That's how we think world will learn in future.
 
